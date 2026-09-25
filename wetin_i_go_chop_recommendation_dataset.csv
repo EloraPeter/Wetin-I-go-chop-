@@ -1,0 +1,51 @@
+meal_id,meal_name,description,ingredients,estimated_cost_ngn,cooking_time_minutes,difficulty,moods,meal_times,ingredient_count,mood_count,is_budget_meal,is_quick_meal
+M001,Egg Fried Rice,"Rice tossed with eggs, onion and pepper",rice|egg|onion|pepper|seasoning|oil,1500,15,easy,tired|comforting|craving|happy,lunch|dinner,6,4,True,True
+M002,Simple Jollof Rice,Easy tomato-based jollof rice,rice|tomato|pepper|onion|seasoning|oil,1800,40,medium,comforting|happy|craving|spicy,lunch|dinner,6,4,True,False
+M003,Tomato Rice,Quick rice cooked in a rich tomato-pepper base,rice|tomato|pepper|onion|seasoning|oil,1400,30,easy,tired|comforting|craving,lunch|dinner,6,3,True,False
+M004,Rice and Egg Sauce,Plain rice served with tomato egg sauce,rice|egg|tomato|pepper|onion|seasoning|oil,1700,30,easy,tired|comforting|happy,lunch|dinner,7,3,True,False
+M005,Rice and Beans,Filling rice and beans combination,rice|beans|onion|seasoning|oil,1800,60,medium,hungry|comforting|budget,lunch|dinner,5,3,True,False
+M006,Coconut Rice,Rice cooked with coconut milk and seasoning,rice|coconut milk|onion|pepper|seasoning|oil,2500,40,medium,happy|craving|special,lunch|dinner,6,3,False,False
+M007,Pepper Rice,Spicy one-pot rice with peppers and onions,rice|pepper|tomato|onion|seasoning|oil,1600,35,easy,spicy|craving|happy,lunch|dinner,6,3,True,False
+M008,Sardine Rice,"Quick rice mixed with sardine, pepper and onion",rice|sardine|pepper|onion|seasoning|oil,1900,25,easy,tired|quick|budget|hungry,lunch|dinner,6,4,False,False
+M009,Vegetable Fried Rice,Rice stir-fried with mixed vegetables and egg,rice|egg|carrot|green beans|onion|pepper|seasoning|oil,2200,25,medium,happy|craving|healthy,lunch|dinner,8,3,False,False
+M010,One-Pot Chicken Rice,"Rice cooked with chicken, pepper and seasoning",rice|chicken|tomato|pepper|onion|seasoning|oil,3500,50,medium,hungry|comforting|special,lunch|dinner,7,3,False,False
+M011,Egg Noodles,Instant noodles with scrambled eggs,noodles|egg|onion|pepper|seasoning|oil,1200,10,easy,tired|quick|budget|hungry,breakfast|lunch|dinner|late-night,6,4,True,True
+M012,Spicy Egg Noodles,"Noodles with extra pepper, onion and egg",noodles|egg|pepper|onion|seasoning|oil,1300,12,easy,spicy|tired|craving|quick,lunch|dinner|late-night,6,4,True,True
+M013,Stir-Fried Noodles,Noodles stir-fried with vegetables and egg,noodles|egg|carrot|green beans|onion|pepper|seasoning|oil,1900,20,easy,craving|happy|quick,lunch|dinner,8,3,False,True
+M014,Sardine Noodles,"Noodles with sardine, onion and pepper",noodles|sardine|onion|pepper|seasoning|oil,1800,12,easy,hungry|tired|craving|quick,lunch|dinner|late-night,6,4,True,True
+M015,Chicken Noodles,Noodles topped with seasoned chicken,noodles|chicken|onion|pepper|seasoning|oil,2800,25,medium,craving|happy|hungry,lunch|dinner,6,3,False,False
+M016,Vegetable Noodles,Quick noodles with vegetables and pepper,noodles|carrot|green beans|onion|pepper|seasoning|oil,1700,15,easy,healthy|tired|quick,lunch|dinner,7,3,True,True
+M017,Fried Yam and Egg,Crispy fried yam with seasoned eggs,yam|egg|onion|pepper|seasoning|oil,1800,30,easy,comforting|hungry|craving|happy,breakfast|lunch|dinner,6,4,True,False
+M018,Boiled Yam and Egg Sauce,Boiled yam with tomato and egg sauce,yam|egg|tomato|pepper|onion|seasoning|oil,1800,35,easy,comforting|tired|hungry,breakfast|lunch|dinner,7,3,True,False
+M019,Yam Porridge,Soft yam cooked in a peppery sauce,yam|tomato|pepper|onion|seasoning|oil,1700,45,medium,comforting|hungry|spicy,lunch|dinner,6,3,True,False
+M020,Yam and Pepper Sauce,Boiled yam with spicy pepper sauce,yam|pepper|tomato|onion|seasoning|oil,1500,30,easy,spicy|budget|comforting,breakfast|lunch|dinner,6,3,True,False
+M021,Beans Porridge,"Soft beans cooked with pepper, onion and oil",beans|pepper|onion|tomato|seasoning|oil,1800,70,medium,comforting|hungry|budget,lunch|dinner,6,3,True,False
+M022,Beans and Plantain,Beans served with fried or boiled plantain,beans|plantain|pepper|onion|seasoning|oil,2300,70,medium,comforting|happy|hungry,lunch|dinner,6,3,False,False
+M023,Beans and Bread,Beans served with bread,beans|bread|pepper|onion|seasoning|oil,1800,65,easy,budget|hungry|comforting,breakfast|lunch|dinner,6,3,True,False
+M024,Beans and Garri,Beans served with garri,beans|garri|pepper|onion|seasoning|oil,1600,65,easy,budget|hungry|tired,lunch|dinner,6,3,True,False
+M025,Jollof Spaghetti,Spaghetti cooked in a tomato-pepper sauce,spaghetti|tomato|pepper|onion|seasoning|oil,1800,30,easy,comforting|craving|happy,lunch|dinner,6,3,True,False
+M026,Spaghetti and Egg,Spaghetti served with seasoned scrambled eggs,spaghetti|egg|onion|pepper|seasoning|oil,1600,25,easy,tired|budget|quick|hungry,breakfast|lunch|dinner,6,4,True,False
+M027,Stir-Fried Spaghetti,Spaghetti stir-fried with vegetables and egg,spaghetti|egg|carrot|green beans|onion|pepper|seasoning|oil,2100,25,medium,craving|happy|quick,lunch|dinner,8,3,False,False
+M028,Sardine Spaghetti,"Spaghetti with sardine, pepper and onion",spaghetti|sardine|pepper|onion|seasoning|oil,1900,25,easy,tired|craving|quick,lunch|dinner,6,3,False,False
+M029,Egg Sandwich,Bread filled with seasoned scrambled eggs,bread|egg|onion|pepper|seasoning|oil,1200,10,easy,tired|quick|budget,breakfast|late-night,6,3,True,True
+M030,Sardine Sandwich,"Bread with sardine, onion and pepper",bread|sardine|onion|pepper|seasoning,1600,10,easy,quick|tired|budget,breakfast|lunch|late-night,5,3,True,True
+M031,Omelette and Bread,Egg omelette with onions and pepper served with bread,bread|egg|onion|pepper|tomato|seasoning|oil,1400,12,easy,tired|quick|comforting,breakfast|lunch|late-night,7,3,True,True
+M032,Pepper Egg,Spicy scrambled eggs with onion and pepper,egg|pepper|onion|tomato|seasoning|oil,900,10,easy,spicy|budget|quick|craving,breakfast|lunch|late-night,6,4,True,True
+M033,Egg and Plantain,Fried or boiled plantain served with eggs,plantain|egg|onion|pepper|seasoning|oil,1700,25,easy,happy|comforting|craving,breakfast|lunch|dinner,6,3,True,False
+M034,Bread and Akara,Bread served with akara,bread|beans|pepper|onion|oil,1800,45,medium,comforting|budget|hungry,breakfast|lunch,5,3,True,False
+M035,Fried Plantain and Egg,Ripe plantain fried and served with eggs,plantain|egg|onion|pepper|seasoning|oil,1800,20,easy,happy|comforting|craving,breakfast|lunch|dinner,6,3,True,True
+M036,Plantain Porridge,Plantain cooked in a peppery sauce,plantain|pepper|tomato|onion|seasoning|oil,1800,35,medium,comforting|hungry|spicy,lunch|dinner,6,3,True,False
+M037,Boiled Plantain and Egg Sauce,Boiled plantain with tomato egg sauce,plantain|egg|tomato|pepper|onion|seasoning|oil,1900,30,easy,comforting|tired|hungry,breakfast|lunch|dinner,7,3,False,False
+M038,Egusi Soup and Garri,Egusi soup served with garri,egusi|pepper|tomato|onion|seasoning|oil|garri,3500,60,hard,comforting|hungry|special,lunch|dinner,7,3,False,False
+M039,Okra Soup and Garri,Quick okra soup served with garri,okra|pepper|tomato|onion|seasoning|oil|garri,3000,40,medium,comforting|hungry|spicy,lunch|dinner,7,3,False,False
+M040,Ogbono Soup and Garri,Ogbono soup served with garri,ogbono|pepper|tomato|onion|seasoning|oil|garri,3200,55,medium,comforting|hungry|special,lunch|dinner,7,3,False,False
+M041,Achi Soup and Garri,Achi-thickened soup served with garri,achi|pepper|tomato|onion|seasoning|oil|garri,3000,55,medium,comforting|hungry|special,lunch|dinner,7,3,False,False
+M042,Irish Potato and Egg,Boiled or fried potatoes with eggs,potato|egg|onion|pepper|seasoning|oil,1700,25,easy,tired|comforting|budget,breakfast|lunch|dinner,6,3,True,False
+M043,Potato Porridge,Potatoes cooked in a peppery tomato sauce,potato|tomato|pepper|onion|seasoning|oil,1700,35,easy,comforting|hungry|spicy,lunch|dinner,6,3,True,False
+M044,Potato and Sardine,Potatoes served with sardine pepper sauce,potato|sardine|pepper|onion|tomato|seasoning|oil,2200,30,easy,craving|hungry|quick,lunch|dinner,7,3,False,False
+M045,Akara and Pap,Akara served with pap,beans|pepper|onion|oil|pap,1800,50,medium,comforting|budget|hungry,breakfast|dinner,5,3,True,False
+M046,Pap and Egg,Warm pap served with scrambled egg,pap|egg|onion|pepper|seasoning|oil,1200,15,easy,tired|comforting|budget,breakfast|late-night,6,3,True,True
+M047,Pancakes,Simple pancakes served plain or with toppings,flour|egg|milk|sugar|oil,1800,25,easy,happy|craving|special,breakfast|late-night,5,3,True,False
+M048,Chicken Sandwich,Bread with seasoned chicken and vegetables,bread|chicken|onion|tomato|pepper|seasoning,3000,25,medium,happy|craving|quick,breakfast|lunch|dinner,6,3,False,False
+M049,Indomie and Sausage,Instant noodles with sausage and egg,noodles|sausage|egg|onion|pepper|seasoning|oil,2200,15,easy,tired|craving|quick|late-night,lunch|dinner|late-night,7,4,False,True
+M050,Spicy Tomato Spaghetti,Spaghetti in a hot tomato-pepper sauce,spaghetti|tomato|pepper|onion|seasoning|oil,1700,30,easy,spicy|craving|comforting,lunch|dinner,6,3,True,False
